@@ -50,7 +50,7 @@ Menggunakan algoritma machine learning seperti **Logistic Regression, Random For
 ### Project Benefits
 - Membantu HR mengidentifikasi risiko attrition dini.  
 - Menyediakan insight bagi strategi retensi karyawan.  
-
+hhahahaha
 ---
 
 ## Data Understanding
